@@ -1,0 +1,25 @@
+.App {
+  width: 50%;
+  height: 70%;
+  background: #f8f8f8;
+  margin: auto;
+  border-radius: 13px;
+  padding: 50px 100px;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+}
+
+.App_Header {
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 50px;
+}
+
+.App_SUbtitle {
+  font-size: 15px;
+  font-weight: 600;
+  margin: 10px 0;
+}
+
+.App_Gap {
+  margin-bottom: 30px;
+}
